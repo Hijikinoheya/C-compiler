@@ -1,4 +1,7 @@
-## 🛠️ このプログラムの概要？
+自動セットアップしたい場合、setup_c.batを実行してさい。（PATHに上書きする機能も兼ねてます。）
+If you want to make setup by auto, run setup_c.bat.(PATH will overwrite.)
+
+## 🛠️ このプログラムの概要
 
 このプログラムは、C および C++ のソースファイルを簡単にコンパイルするための Windows 向けのコマンドラインツールです。以下のような特徴があります：
 
